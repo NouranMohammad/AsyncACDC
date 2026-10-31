@@ -1,0 +1,13 @@
+# Training (AsyncACDC_Implementation.ipynb); a CUDA GPU is needed for the full runs
+torch>=2.0
+torchvision>=0.15
+jupyter
+
+# Training and analysis
+numpy>=1.21
+pandas>=1.4
+scipy>=1.9
+matplotlib>=3.5
+
+# Repeated-measures and mixed-model analysis (reanalysis_revision.py)
+statsmodels>=0.13

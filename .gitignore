@@ -1,0 +1,10 @@
+# CIFAR-10 is downloaded by torchvision on first run
+data/
+
+# Written by the analysis scripts
+figures/
+
+# Python and notebook caches
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
