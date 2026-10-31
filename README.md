@@ -2,7 +2,7 @@
 
 Code, training notebook and per-run results for the research paper
 
-> N. Mohammad, P. Ranchod and B. Ingram, *An Exploratory Study of Staggered Dense Phases for Lower Peak Memory in Hybrid Sparse Training*, School of Computer Science and Applied Mathematics, University of the Witwatersrand, 2026.
+> N. Mohammad, P. Ranchod and B. Ingram, *Efficient Sparse Training: Staggering the Dense Phases of Alternating Compressed/Decompressed Training*, School of Computer Science and Applied Mathematics, University of the Witwatersrand, 2026.
 
 ## What this is
 
@@ -99,7 +99,7 @@ for seed in (0, 1, 2):
 ```bibtex
 @misc{mohammad2026asyncacdc,
   author       = {Mohammad, Nouran and Ranchod, Pravesh and Ingram, Branden},
-  title        = {An Exploratory Study of Staggered Dense Phases for Lower Peak Memory in Hybrid Sparse Training},
+  title        = {Efficient Sparse Training: Staggering the Dense Phases of Alternating Compressed/Decompressed Training},
   howpublished = {Research paper, School of Computer Science and Applied Mathematics, University of the Witwatersrand},
   year         = {2026},
   note         = {Code: \url{https://github.com/NouranMohammad/AsyncACDC}}
